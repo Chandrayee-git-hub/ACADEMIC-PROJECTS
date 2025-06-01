@@ -1,5 +1,5 @@
-# Linear-Regression
-Analyzing Key Factors Influencing House Prices in India with Multivariate Linear Regression
+# PROJECT 1
+# Analyzing Key Factors Influencing House Prices in India with Multivariate Linear Regression
 Worked with the dataset: https://www.kaggle.com/datasets/ankushpanday1/india-house-price-prediction
 Data pre-processing to remove outliers and conversion of categorical data to numerical data through label encoding and binary enoding. 
 Multicollinearity removed and presence of heteroskedasticity checked.
