@@ -10,7 +10,9 @@ Programming done in Python.
 
 # PROJECT 2
 # Segmentation of Potential Customers of a Bank with Unsupervised Learning.
- Data pre-processing and conversion of categorical data to numerical data using binary encoding.
- Visualized the data set to identify patterns and gather insights.
- Performed K-Means Clustering to obtain a meaningful set of customer segments.
- Conclusion drawn from the results to find a cost-effective marketing campaign for the bank. 
+Worked with the dataset: /kaggle/input/bank-marketing-dataset/bank.csv
+Data pre-processing and conversion of categorical data to numerical data using binary encoding.
+Visualized the data set to identify patterns and gather insights.
+Performed K-Means Clustering to obtain a meaningful set of customer segments.
+Conclusion drawn from the results to find a cost-effective marketing campaign for the bank. 
+Programming done in Python.
