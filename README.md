@@ -7,3 +7,10 @@ Multiple Linear Regression model fitted to the data.
 Important features pointed out. 
 Different Regularization Techniques checked with the model. 
 Programming done in Python.
+
+# PROJECT 2
+# Segmentation of Potential Customers of a Bank with Unsupervised Learning.
+ Data pre-processing and conversion of categorical data to numerical data using binary encoding.
+ Visualized the data set to identify patterns and gather insights.
+ Performed K-Means Clustering to obtain a meaningful set of customer segments.
+ Conclusion drawn from the results to find a cost-effective marketing campaign for the bank. 
