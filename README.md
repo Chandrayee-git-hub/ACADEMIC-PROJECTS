@@ -10,7 +10,7 @@ Programming done in Python.
 
 # PROJECT 2
 # Segmentation of Potential Customers of a Bank with Unsupervised Learning.
-Worked with the dataset: /kaggle/input/bank-marketing-dataset/bank.csv
+Worked with the dataset: https://www.kaggle.com/datasets/krantiswalke/bankfullcsv
 Data pre-processing and conversion of categorical data to numerical data using binary encoding.
 Visualized the data set to identify patterns and gather insights.
 Performed K-Means Clustering to obtain a meaningful set of customer segments.
